@@ -1,0 +1,549 @@
+onset	duration	sample	trial_type	response_time	stim_file	value
+0.0000000000	n/a	n/a	STATUS	n/a	n/a	boundary
+132.0420000000	n/a	n/a	STATUS	n/a	n/a	S111
+137.1900000000	n/a	n/a	STATUS	n/a	n/a	S111
+141.7260000000	n/a	n/a	STATUS	n/a	n/a	S111
+188.3620000000	n/a	n/a	STATUS	n/a	n/a	S111
+192.5980000000	n/a	n/a	STATUS	n/a	n/a	S111
+196.3340000000	n/a	n/a	STATUS	n/a	n/a	S111
+200.0020000000	n/a	n/a	STATUS	n/a	n/a	S111
+204.3660000000	n/a	n/a	STATUS	n/a	n/a	S111
+208.7060000000	n/a	n/a	STATUS	n/a	n/a	S111
+213.1100000000	n/a	n/a	STATUS	n/a	n/a	S111
+217.3260000000	n/a	n/a	STATUS	n/a	n/a	S111
+221.0340000000	n/a	n/a	STATUS	n/a	n/a	S111
+225.1260000000	n/a	n/a	STATUS	n/a	n/a	S111
+279.7320000000	n/a	n/a	STATUS	n/a	n/a	S111
+284.0960000000	n/a	n/a	STATUS	n/a	n/a	S111
+288.8800000000	n/a	n/a	STATUS	n/a	n/a	S111
+293.5080000000	n/a	n/a	STATUS	n/a	n/a	S111
+298.5720000000	n/a	n/a	STATUS	n/a	n/a	S111
+302.6400000000	n/a	n/a	STATUS	n/a	n/a	S111
+306.6440000000	n/a	n/a	STATUS	n/a	n/a	S111
+311.2040000000	n/a	n/a	STATUS	n/a	n/a	S111
+354.6700000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+355.5880000000	n/a	n/a	Right Button	n/a	n/a	S 20
+356.7060000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+360.6760000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+362.0840000000	n/a	n/a	Left Button	n/a	n/a	S 10
+363.1600000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+367.1800000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+368.2720000000	n/a	n/a	Left Button	n/a	n/a	S 10
+369.3480000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+372.9520000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+373.8360000000	n/a	n/a	Left Button	n/a	n/a	S 10
+374.9200000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+378.3880000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+379.2520000000	n/a	n/a	Left Button	n/a	n/a	S 10
+380.3400000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+384.3260000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+385.0800000000	n/a	n/a	Right Button	n/a	n/a	S 20
+386.1620000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+389.8640000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+391.4800000000	n/a	n/a	Right Button	n/a	n/a	S 20
+392.5660000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+396.5520000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+397.5360000000	n/a	n/a	Left Button	n/a	n/a	S 10
+398.6220000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+402.7580000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+403.5480000000	n/a	n/a	Left Button	n/a	n/a	S 10
+404.6260000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+408.0940000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+408.8600000000	n/a	n/a	Right Button	n/a	n/a	S 20
+409.9460000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+414.0000000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+415.0200000000	n/a	n/a	Left Button	n/a	n/a	S 10
+416.1020000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+419.7380000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+421.6600000000	n/a	n/a	Right Button	n/a	n/a	S 20
+422.7400000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+426.8920000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+429.9000000000	n/a	n/a	Left Button	n/a	n/a	S 10
+430.9800000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+434.6160000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+435.5120000000	n/a	n/a	Right Button	n/a	n/a	S 20
+436.5840000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+440.1700000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+441.0560000000	n/a	n/a	Right Button	n/a	n/a	S 20
+442.1380000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+446.2240000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+446.7240000000	n/a	n/a	Right Button	n/a	n/a	S 20
+447.8080000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+451.6280000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+452.3700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+453.4460000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+457.0320000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+458.0020000000	n/a	n/a	Right Button	n/a	n/a	S 20
+459.0840000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+463.0200000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+463.4860000000	n/a	n/a	Right Button	n/a	n/a	S 20
+464.5720000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+468.2420000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+468.7300000000	n/a	n/a	Left Button	n/a	n/a	S 10
+469.8080000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+473.7620000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+474.3700000000	n/a	n/a	Right Button	n/a	n/a	S 20
+475.4460000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+479.0820000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+479.8060000000	n/a	n/a	Right Button	n/a	n/a	S 20
+480.8840000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+484.6380000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+485.2940000000	n/a	n/a	Left Button	n/a	n/a	S 10
+486.3720000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+490.3080000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+491.0300000000	n/a	n/a	Left Button	n/a	n/a	S 10
+492.1100000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+496.0120000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+496.6180000000	n/a	n/a	Left Button	n/a	n/a	S 10
+497.6960000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+501.5840000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+502.1940000000	n/a	n/a	Right Button	n/a	n/a	S 20
+503.2680000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+506.7880000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+508.0540000000	n/a	n/a	Right Button	n/a	n/a	S 20
+509.1400000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+512.6920000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+513.4580000000	n/a	n/a	Right Button	n/a	n/a	S 20
+514.5440000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+518.5640000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+519.1700000000	n/a	n/a	Right Button	n/a	n/a	S 20
+520.2480000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+524.1500000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+524.6620000000	n/a	n/a	Right Button	n/a	n/a	S 20
+525.7360000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+529.6040000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+530.1620000000	n/a	n/a	Right Button	n/a	n/a	S 20
+531.2400000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+534.8760000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+535.6300000000	n/a	n/a	Left Button	n/a	n/a	S 10
+536.7100000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+540.7460000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+541.4100000000	n/a	n/a	Left Button	n/a	n/a	S 10
+542.4980000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+546.1680000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+546.7620000000	n/a	n/a	Right Button	n/a	n/a	S 20
+547.8360000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+551.5880000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+552.4300000000	n/a	n/a	Right Button	n/a	n/a	S 20
+553.5060000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+557.1100000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+557.6860000000	n/a	n/a	Right Button	n/a	n/a	S 20
+558.7600000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+562.2460000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+562.7060000000	n/a	n/a	Left Button	n/a	n/a	S 10
+563.7820000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+567.9500000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+568.5740000000	n/a	n/a	Left Button	n/a	n/a	S 10
+569.6520000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+573.1540000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+574.0260000000	n/a	n/a	Left Button	n/a	n/a	S 10
+575.1060000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+579.2600000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+580.1780000000	n/a	n/a	Right Button	n/a	n/a	S 20
+581.2620000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+584.9300000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+585.5140000000	n/a	n/a	Right Button	n/a	n/a	S 20
+586.5980000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+590.7180000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+591.2140000000	n/a	n/a	Right Button	n/a	n/a	S 20
+592.2860000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+596.3900000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+596.9420000000	n/a	n/a	Left Button	n/a	n/a	S 10
+598.0240000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+601.9100000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+602.4700000000	n/a	n/a	Right Button	n/a	n/a	S 20
+603.5440000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+607.3640000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+608.2340000000	n/a	n/a	Left Button	n/a	n/a	S 10
+609.3160000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+613.2700000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+613.8340000000	n/a	n/a	Left Button	n/a	n/a	S 10
+614.9200000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+618.4400000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+618.9620000000	n/a	n/a	Left Button	n/a	n/a	S 10
+620.0400000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+623.8100000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+624.4700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+625.5460000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+629.6140000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+630.2060000000	n/a	n/a	Left Button	n/a	n/a	S 10
+631.2820000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+635.3520000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+636.5040000000	n/a	n/a	Right Button	n/a	n/a	S 20
+637.5880000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+641.5400000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+642.4520000000	n/a	n/a	Left Button	n/a	n/a	S 10
+643.5260000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+647.4460000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+648.2120000000	n/a	n/a	Left Button	n/a	n/a	S 10
+649.2960000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+652.8000000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+653.2240000000	n/a	n/a	Left Button	n/a	n/a	S 10
+654.3000000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+658.3200000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+658.7880000000	n/a	n/a	Left Button	n/a	n/a	S 10
+659.8720000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+663.8580000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+664.6640000000	n/a	n/a	Left Button	n/a	n/a	S 10
+665.7420000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+669.2780000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+669.8880000000	n/a	n/a	Right Button	n/a	n/a	S 20
+670.9640000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+675.0840000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+675.8800000000	n/a	n/a	Left Button	n/a	n/a	S 10
+676.9680000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+680.5040000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+681.1440000000	n/a	n/a	Left Button	n/a	n/a	S 10
+682.2220000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+686.2580000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+686.8480000000	n/a	n/a	Left Button	n/a	n/a	S 10
+687.9260000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+691.7620000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+692.2520000000	n/a	n/a	Left Button	n/a	n/a	S 10
+693.3300000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+697.4340000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+698.0640000000	n/a	n/a	Left Button	n/a	n/a	S 10
+699.1520000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+703.2880000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+703.8760000000	n/a	n/a	Left Button	n/a	n/a	S 10
+704.9560000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+708.8080000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+709.6200000000	n/a	n/a	Right Button	n/a	n/a	S 20
+710.6940000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+714.3640000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+714.9360000000	n/a	n/a	Left Button	n/a	n/a	S 10
+716.0140000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+720.0000000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+720.6760000000	n/a	n/a	Left Button	n/a	n/a	S 10
+721.7520000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+725.9060000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+726.5280000000	n/a	n/a	Left Button	n/a	n/a	S 10
+727.6060000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+731.4440000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+732.1640000000	n/a	n/a	Left Button	n/a	n/a	S 10
+733.2440000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+736.7140000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+737.4400000000	n/a	n/a	Right Button	n/a	n/a	S 20
+738.5160000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+742.3520000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+742.9960000000	n/a	n/a	Left Button	n/a	n/a	S 10
+744.0700000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+747.6560000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+748.2320000000	n/a	n/a	Right Button	n/a	n/a	S 20
+749.3060000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+752.9420000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+753.5560000000	n/a	n/a	Right Button	n/a	n/a	S 20
+754.6440000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+758.6480000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+759.2800000000	n/a	n/a	Right Button	n/a	n/a	S 20
+760.3660000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+764.4180000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+764.8760000000	n/a	n/a	Left Button	n/a	n/a	S 10
+765.9520000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+769.6380000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+770.2240000000	n/a	n/a	Right Button	n/a	n/a	S 20
+771.3060000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+775.3940000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+775.8840000000	n/a	n/a	Left Button	n/a	n/a	S 10
+776.9620000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+780.8800000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+781.4760000000	n/a	n/a	Right Button	n/a	n/a	S 20
+782.5480000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+786.6860000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+787.4160000000	n/a	n/a	Left Button	n/a	n/a	S 10
+788.5040000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+792.4060000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+793.3200000000	n/a	n/a	Left Button	n/a	n/a	S 10
+794.4080000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+798.4780000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+798.9960000000	n/a	n/a	Right Button	n/a	n/a	S 20
+800.0780000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+803.7480000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+804.6640000000	n/a	n/a	Left Button	n/a	n/a	S 10
+805.7500000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+809.9040000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+810.5800000000	n/a	n/a	Right Button	n/a	n/a	S 20
+811.6540000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+815.4240000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+816.6280000000	n/a	n/a	Left Button	n/a	n/a	S 10
+817.7100000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+821.5960000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+822.4220000000	n/a	n/a	Right Button	n/a	n/a	S 20
+823.4960000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+827.4660000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+828.4820000000	n/a	n/a	Right Button	n/a	n/a	S 20
+829.5680000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+833.1880000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+833.8660000000	n/a	n/a	Right Button	n/a	n/a	S 20
+834.9400000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+839.1080000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+839.8860000000	n/a	n/a	Left Button	n/a	n/a	S 10
+840.9600000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+844.8460000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+845.4500000000	n/a	n/a	Right Button	n/a	n/a	S 20
+846.5320000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+850.5680000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+851.2380000000	n/a	n/a	Right Button	n/a	n/a	S 20
+852.3200000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+856.4880000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+857.0180000000	n/a	n/a	Right Button	n/a	n/a	S 20
+858.1060000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+862.2940000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+862.7740000000	n/a	n/a	Right Button	n/a	n/a	S 20
+863.8620000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+867.9820000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+868.5460000000	n/a	n/a	Right Button	n/a	n/a	S 20
+869.6320000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+873.7860000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+874.3900000000	n/a	n/a	Right Button	n/a	n/a	S 20
+875.4700000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+879.5400000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+880.0940000000	n/a	n/a	Right Button	n/a	n/a	S 20
+881.1740000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+885.2620000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+886.4020000000	n/a	n/a	Left Button	n/a	n/a	S 10
+887.4800000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+891.1820000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+892.1260000000	n/a	n/a	Left Button	n/a	n/a	S 10
+893.2000000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+896.9540000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+898.7460000000	n/a	n/a	Left Button	n/a	n/a	S 10
+899.8220000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+903.4240000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+903.9580000000	n/a	n/a	Left Button	n/a	n/a	S 10
+905.0420000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+908.5960000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+909.6540000000	n/a	n/a	Right Button	n/a	n/a	S 20
+910.7300000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+914.2840000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+915.0980000000	n/a	n/a	Right Button	n/a	n/a	S 20
+916.1840000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+919.7040000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+920.6780000000	n/a	n/a	Left Button	n/a	n/a	S 10
+921.7560000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+925.4920000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+925.9940000000	n/a	n/a	Right Button	n/a	n/a	S 20
+927.0760000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+930.6120000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+931.5300000000	n/a	n/a	Left Button	n/a	n/a	S 10
+932.6140000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+936.2340000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+937.2020000000	n/a	n/a	Right Button	n/a	n/a	S 20
+938.2840000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+942.4220000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+943.0460000000	n/a	n/a	Right Button	n/a	n/a	S 20
+944.1220000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+947.9100000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+948.4020000000	n/a	n/a	Right Button	n/a	n/a	S 20
+949.4760000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+953.4960000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+954.1740000000	n/a	n/a	Right Button	n/a	n/a	S 20
+955.2480000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+959.4020000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+960.2220000000	n/a	n/a	Left Button	n/a	n/a	S 10
+961.3020000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+965.3900000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+966.3100000000	n/a	n/a	Left Button	n/a	n/a	S 10
+967.3900000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+970.9760000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+971.5020000000	n/a	n/a	Left Button	n/a	n/a	S 10
+972.5780000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+976.6640000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+977.7860000000	n/a	n/a	Right Button	n/a	n/a	S 20
+978.8660000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+982.4680000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+983.0700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+984.1540000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+987.9740000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+988.6980000000	n/a	n/a	Left Button	n/a	n/a	S 10
+989.7740000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+993.6100000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+994.4940000000	n/a	n/a	Right Button	n/a	n/a	S 20
+995.5780000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+999.5320000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+1000.8620000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1001.9340000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+1005.7040000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+1006.1580000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1007.2380000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1010.7580000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+1011.0960000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1012.1740000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+1015.9440000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+1016.4080000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1017.4960000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1021.0980000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+1021.5520000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1022.6340000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1026.3520000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+1026.7960000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1027.8700000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+1031.8060000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+1032.8320000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1033.9080000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+1037.5440000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+1039.0880000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1040.1640000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1044.0500000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+1044.6040000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1045.6840000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1049.6880000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1050.4640000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1051.5380000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+1055.4420000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+1055.9800000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1057.0600000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1060.5280000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+1060.9760000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1062.0640000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1065.6500000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+1066.1640000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1067.2500000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1071.0860000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1072.4040000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1073.4880000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1077.5760000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+1078.1720000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1079.2600000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1082.9620000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+1083.5560000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1084.6300000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1088.6340000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+1089.1880000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1090.2680000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1094.2880000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+1094.8160000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1095.8900000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1100.0100000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+1100.5000000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1101.5760000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1105.5960000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1106.5520000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1107.6320000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1111.4020000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1111.8560000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1112.9360000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1116.6060000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1117.0440000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1118.1220000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1121.9600000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+1122.5080000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1123.5940000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1127.6460000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+1128.3000000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1129.3820000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1133.1020000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1133.7400000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1134.8200000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1138.5380000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1139.8160000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1140.8900000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1144.9940000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+1146.2120000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1147.2960000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1151.2320000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+1151.8040000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1152.8820000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1156.4680000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+1157.8720000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1158.9540000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1162.7740000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+1163.8640000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1164.9420000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1168.8960000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1169.6280000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1170.7140000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1174.1820000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+1174.8520000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1175.9340000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1180.0040000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1180.7560000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1181.8380000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1185.6580000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+1186.8240000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1187.9100000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1191.4460000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+1192.7440000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1193.8300000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1197.4500000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+1200.3460000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1201.4200000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+1205.0720000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1205.6660000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1206.7400000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1210.1940000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+1210.8620000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1211.9440000000	n/a	n/a	FB: LOSE COW	n/a	n/a	S104
+1215.7320000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+1216.1820000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1217.2660000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1221.3680000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+1221.8700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1222.9540000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1227.1400000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1227.8580000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1228.9420000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1232.6940000000	n/a	n/a	CUE: D - HARD COW	n/a	n/a	S  4
+1233.3700000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1234.4460000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1238.5980000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1239.5740000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1240.6500000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1244.3360000000	n/a	n/a	CUE: B - HARD PUPPY	n/a	n/a	S  2
+1248.6780000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1249.7580000000	n/a	n/a	FB: LOSE PUPPY	n/a	n/a	S102
+1253.5760000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1254.8940000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1255.9780000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1260.0660000000	n/a	n/a	CUE: A - EASY PUPPY	n/a	n/a	S  1
+1260.7060000000	n/a	n/a	Left Button	n/a	n/a	S 10
+1261.7840000000	n/a	n/a	FB: WIN PUPPY	n/a	n/a	S101
+1265.6020000000	n/a	n/a	CUE: C - EASY COW	n/a	n/a	S  3
+1266.2220000000	n/a	n/a	Right Button	n/a	n/a	S 20
+1267.3040000000	n/a	n/a	FB: WIN COW	n/a	n/a	S103
+1302.4740000000	n/a	n/a	STATUS	n/a	n/a	S110
+1305.8100000000	n/a	n/a	STATUS	n/a	n/a	S120
+1309.0500000000	n/a	n/a	STATUS	n/a	n/a	S110
+1312.9220000000	n/a	n/a	STATUS	n/a	n/a	S120
+1316.8580000000	n/a	n/a	STATUS	n/a	n/a	S120
+1320.3740000000	n/a	n/a	STATUS	n/a	n/a	S120
+1324.3660000000	n/a	n/a	STATUS	n/a	n/a	S110
+1327.7660000000	n/a	n/a	STATUS	n/a	n/a	S120
+1330.7020000000	n/a	n/a	STATUS	n/a	n/a	S120
+1334.9660000000	n/a	n/a	STATUS	n/a	n/a	S110
+1339.2740000000	n/a	n/a	STATUS	n/a	n/a	S120
+1343.5620000000	n/a	n/a	STATUS	n/a	n/a	S110
+1346.7540000000	n/a	n/a	STATUS	n/a	n/a	S110
+1349.6700000000	n/a	n/a	STATUS	n/a	n/a	S110
+1352.9300000000	n/a	n/a	STATUS	n/a	n/a	S120
+1356.1420000000	n/a	n/a	STATUS	n/a	n/a	S110
+1358.8740000000	n/a	n/a	STATUS	n/a	n/a	S120
+1361.9340000000	n/a	n/a	STATUS	n/a	n/a	S120
+1365.8020000000	n/a	n/a	STATUS	n/a	n/a	S120
+1369.4260000000	n/a	n/a	STATUS	n/a	n/a	S110
+1372.7100000000	n/a	n/a	STATUS	n/a	n/a	S110
+1376.2980000000	n/a	n/a	STATUS	n/a	n/a	S110
+1379.8760000000	n/a	n/a	STATUS	n/a	n/a	S120
+1382.6200000000	n/a	n/a	STATUS	n/a	n/a	S110
+1385.8040000000	n/a	n/a	STATUS	n/a	n/a	S110
+1388.8920000000	n/a	n/a	STATUS	n/a	n/a	S120
+1392.0120000000	n/a	n/a	STATUS	n/a	n/a	S120
+1395.7600000000	n/a	n/a	STATUS	n/a	n/a	S110
+1398.7560000000	n/a	n/a	STATUS	n/a	n/a	S120
+1402.4720000000	n/a	n/a	STATUS	n/a	n/a	S120
+1406.3400000000	n/a	n/a	STATUS	n/a	n/a	S110
+1409.3800000000	n/a	n/a	STATUS	n/a	n/a	S110
+1413.0200000000	n/a	n/a	STATUS	n/a	n/a	S110
+1416.0360000000	n/a	n/a	STATUS	n/a	n/a	S110
+1419.3320000000	n/a	n/a	STATUS	n/a	n/a	S120
+1422.2400000000	n/a	n/a	STATUS	n/a	n/a	S110
+1425.1200000000	n/a	n/a	STATUS	n/a	n/a	S120
+1427.8800000000	n/a	n/a	STATUS	n/a	n/a	S110
+1431.3040000000	n/a	n/a	STATUS	n/a	n/a	S110
+1434.0080000000	n/a	n/a	STATUS	n/a	n/a	S120
+1437.4040000000	n/a	n/a	STATUS	n/a	n/a	S120
+1440.4040000000	n/a	n/a	STATUS	n/a	n/a	S120
+1443.5960000000	n/a	n/a	STATUS	n/a	n/a	S120
+1446.7160000000	n/a	n/a	STATUS	n/a	n/a	S110
+1449.6200000000	n/a	n/a	STATUS	n/a	n/a	S110
+1452.4840000000	n/a	n/a	STATUS	n/a	n/a	S120
